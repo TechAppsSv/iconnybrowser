@@ -1,40 +1,45 @@
 * {
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Nunito', sans-serif;
     /* background: black; */
-color: white;
+color: black;
 }
 h1 {
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Nunito', sans-serif;
     /* background: black; */
-color: white;
+color: black;
 }
 h2 {
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Nunito', sans-serif;
     /* background: black; */
-color: white;
+color: black;
 }
 h3 {
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Nunito', sans-serif;
     /* background: black; */
-color: white;
+color: black;
 }
 h4 {
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Nunito', sans-serif;
     /* background: black; */
-color: white;
+color: black;
 }
 h5 {
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Nunito', sans-serif;
     /* background: black; */
-color: white;
+color: black;
 }
 h6 {
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Nunito', sans-serif;
     /* background: black; */
-color: white;
+color: black;
 }
 body {
-    font-family: 'Oswald', sans-serif;
-background: black;
+    font-family: 'Nunito', sans-serif;
+
+color: black;
+}
+i {
+    font-family: 'Nunito', sans-serif;
+
 color: white;
 }
